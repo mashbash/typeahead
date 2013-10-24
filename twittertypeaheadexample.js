@@ -1,4 +1,4 @@
-//setting up our URL, getting the relative URL
+//setting up URL, getting the relative URL
 var userquery = '@{query}'
 
 //set-up to use twitter typeahead
